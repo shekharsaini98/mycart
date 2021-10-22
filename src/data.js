@@ -1,0 +1,2 @@
+const data = [{id:"rec1JZlfCIBOPdcT2",title:"Samsung Galaxy S7",price:"32999",img:"phone1.png",amount:1},{id:"recB6qcHPxb62YJ75",title:"google pixel",price:"38999",img:"phone2.png",amount:1},{id:"recdRxBsE14Rr2VuJ",title:"Xiaomi Redmi Note 2",price:"20999",img:"phone3.png",amount:1},{id:"recwTo160XST3PIoW",title:"Samsung Galaxy S7 Plus",price:"36999",img:"phone4.png",amount:1}];
+export default data;
